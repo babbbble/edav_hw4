@@ -1,0 +1,52 @@
+State	Deaths
+Alabama	130274
+California	649533
+District of Columbia	13906
+Idaho	30522
+Kansas	67007
+Maryland	121166
+Mississippi	79390
+Nevada	51971
+New York	408149
+Oklahoma	98361
+South Carolina	111637
+Utah	39799
+West Virginia	57714
+Arizona	127173
+Connecticut	79568
+Georgia	190624
+Indiana	155250
+Louisiana	114337
+Michigan	239804
+Montana	24414
+New Jersey	192357
+North Dakota	16296
+Pennsylvania	347067
+Tennessee	161120
+Virginia	161074
+Wyoming	11723
+Alaska	9694
+Colorado	85724
+Florida	472609
+Illinois	281975
+Kentucky	114104
+Massachusetts	148574
+Missouri	151767
+New Hampshire	28946
+North Carolina	212127
+Oregon	86824
+South Dakota	19578
+Vermont	14319
+Wisconsin	129975
+Arkansas	78837
+Delaware	20213
+Hawaii	26258
+Iowa	76490
+Maine	34881
+Minnesota	106094
+Nebraska	42246
+New Mexico	42872
+Ohio	299137
+Rhode Island	26538
+Texas	451116
+Washington	131230

@@ -99,7 +99,13 @@ https://www.nytimes.com/interactive/2017/06/30/upshot/the-best-and-worst-new-yor
 https://www.nytimes.com/interactive/2017/10/05/upshot/gun-ownership-partisan-divide.html
 
 ```{r}
-df<-read.csv("Underlying_Cause_of_Death_1999-2017_less_than_1_year.csv",sep=" ")
+library(choroplethr)
+library(choroplethrMaps)
+```
+
+
+```{r}
+df<-read.csv("sunday.csv",header = TRUE)
 ```
 
 (b) Interpret the graphs you drew in (a).
