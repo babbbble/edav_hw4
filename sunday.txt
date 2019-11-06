@@ -1,0 +1,81 @@
+"Notes"	"State"	"State Code"	Deaths	Population	Crude Rate
+	"Alabama"	"01"	306	Not Applicable	Not Applicable
+	"Alaska"	"02"	48	Not Applicable	Not Applicable
+	"Arizona"	"04"	321	Not Applicable	Not Applicable
+	"Arkansas"	"05"	142	Not Applicable	Not Applicable
+	"California"	"06"	1405	Not Applicable	Not Applicable
+	"Colorado"	"08"	250	Not Applicable	Not Applicable
+	"Connecticut"	"09"	109	Not Applicable	Not Applicable
+	"Delaware"	"10"	42	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	41	Not Applicable	Not Applicable
+	"Florida"	"12"	898	Not Applicable	Not Applicable
+	"Georgia"	"13"	528	Not Applicable	Not Applicable
+	"Hawaii"	"15"	35	Not Applicable	Not Applicable
+	"Idaho"	"16"	67	Not Applicable	Not Applicable
+	"Illinois"	"17"	635	Not Applicable	Not Applicable
+	"Indiana"	"18"	354	Not Applicable	Not Applicable
+	"Iowa"	"19"	97	Not Applicable	Not Applicable
+	"Kansas"	"20"	134	Not Applicable	Not Applicable
+	"Kentucky"	"21"	271	Not Applicable	Not Applicable
+	"Louisiana"	"22"	279	Not Applicable	Not Applicable
+	"Maine"	"23"	54	Not Applicable	Not Applicable
+	"Maryland"	"24"	331	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	284	Not Applicable	Not Applicable
+	"Michigan"	"26"	481	Not Applicable	Not Applicable
+	"Minnesota"	"27"	173	Not Applicable	Not Applicable
+	"Mississippi"	"28"	178	Not Applicable	Not Applicable
+	"Missouri"	"29"	336	Not Applicable	Not Applicable
+	"Montana"	"30"	52	Not Applicable	Not Applicable
+	"Nebraska"	"31"	64	Not Applicable	Not Applicable
+	"Nevada"	"32"	141	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	66	Not Applicable	Not Applicable
+	"New Jersey"	"34"	343	Not Applicable	Not Applicable
+	"New Mexico"	"35"	117	Not Applicable	Not Applicable
+	"New York"	"36"	603	Not Applicable	Not Applicable
+	"North Carolina"	"37"	510	Not Applicable	Not Applicable
+	"North Dakota"	"38"	50	Not Applicable	Not Applicable
+	"Ohio"	"39"	680	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	197	Not Applicable	Not Applicable
+	"Oregon"	"41"	132	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	743	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	33	Not Applicable	Not Applicable
+	"South Carolina"	"45"	276	Not Applicable	Not Applicable
+	"South Dakota"	"46"	47	Not Applicable	Not Applicable
+	"Tennessee"	"47"	386	Not Applicable	Not Applicable
+	"Texas"	"48"	1275	Not Applicable	Not Applicable
+	"Utah"	"49"	134	Not Applicable	Not Applicable
+	"Vermont"	"50"	21	Not Applicable	Not Applicable
+	"Virginia"	"51"	357	Not Applicable	Not Applicable
+	"Washington"	"53"	282	Not Applicable	Not Applicable
+	"West Virginia"	"54"	112	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	259	Not Applicable	Not Applicable
+	"Wyoming"	"56"	27	Not Applicable	Not Applicable
+"Total"			14706	Not Applicable	Not Applicable
+"---"
+"Dataset: Underlying Cause of Death, 1999-2017"
+"Query Parameters:"
+"Ten-Year Age Groups: 15-24 years; 25-34 years"
+"Weekday: Sunday"
+"Year/Month: 2017"
+"Group By: State"
+"Show Totals: True"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Nov 6, 2019 10:16:11 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"
+"1999-2017 on CDC WONDER Online Database, released December, 2018. Data are from the Multiple Cause of Death Files, 1999-2017, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/ucd-icd10.html on Nov 6, 2019 10:16:11 AM"
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when Autopsy, Place of Death, Weekday or Month are grouped by or limited,"
+"due to lack of a valid population. More information: http://wonder.cdc.gov/wonder/help/ucd.html#NotApplicableRates."
+"2. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Not Stated."

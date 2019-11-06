@@ -1,0 +1,52 @@
+State	Deaths
+Alabama	246
+Alaska	57
+Arizona	264
+Arkansas	133
+California	1152
+Colorado	198
+Connecticut	109
+Delaware	64
+District of Columbia	27
+Florida	854
+Georgia	469
+Hawaii	46
+Idaho	53
+Illinois	489
+Indiana	300
+Iowa	75
+Kansas	96
+Kentucky	240
+Louisiana	268
+Maine	56
+Maryland	290
+Massachusetts	250
+Michigan	397
+Minnesota	140
+Mississippi	152
+Missouri	261
+Montana	46
+Nebraska	55
+Nevada	110
+New Hampshire	52
+New Jersey	311
+New Mexico	118
+New York	579
+North Carolina	415
+North Dakota	33
+Ohio	580
+Oklahoma	175
+Oregon	124
+Pennsylvania	619
+Rhode Island	34
+South Carolina	206
+South Dakota	38
+Tennessee	335
+Texas	961
+Utah	144
+Vermont	18
+Virginia	270
+Washington	234
+West Virginia	101
+Wisconsin	187
+Wyoming	23

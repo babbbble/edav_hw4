@@ -106,7 +106,55 @@ library(choroplethrMaps)
 
 ```{r}
 df<-read.csv("sunday.csv",header = TRUE)
+df_sunday <-df %>% as.data.frame() %>% 
+  transmute(region = tolower(`State`), value = Deaths)
+state_choropleth(df_sunday,title="number of people aged between 14-34 died due to Drug/Alcohol Induced Causes in 2017 Sunday",legend="number of people",num_colors = 1)
 ```
+```{r}
+df<-read.csv("monday.csv",header = TRUE)
+df_monday <-df %>% as.data.frame() %>% 
+  transmute(region = tolower(`State`), value = Deaths)
+state_choropleth(df_monday,title="number of people aged between 14-34 died due to Drug/Alcohol Induced Causes in 2017 monday",legend="number of people",num_colors = 1)
+```
+```{r}
+df<-read.csv("tuesday.csv",header = TRUE)
+df_tuesday <-df %>% as.data.frame() %>% 
+  transmute(region = tolower(`State`), value = Deaths)
+state_choropleth(df_tuesday,title="number of people aged between 14-34 died due to Drug/Alcohol Induced Causes in 2017 tuesday",legend="number of people",num_colors = 1)
+```
+
+```{r}
+df<-read.csv("wednesday.csv",header = TRUE)
+df_wednesday <-df %>% as.data.frame() %>% 
+  transmute(region = tolower(`State`), value = Deaths)
+
+state_choropleth(df_wednesday,title="number of people aged between 14-34 died due to Drug/Alcohol Induced Causes in 2017 tuesday",legend="number of people",num_colors = 1)
+```
+
+```{r}
+df<-read.csv("thursday.csv",header = TRUE)
+df_thursday <-df %>% as.data.frame() %>% 
+  transmute(region = tolower(`State`), value = Deaths)
+
+state_choropleth(df_thursday,title="number of people aged between 14-34 died due to Drug/Alcohol Induced Causes in 2017 tuesday",legend="number of people",num_colors = 1)
+```
+```{r}
+df<-read.csv("friday.csv",header = TRUE)
+df_friday <-df %>% as.data.frame() %>% 
+  transmute(region = tolower(`State`), value = Deaths)
+
+state_choropleth(df_friday,title="number of people aged between 14-34 died due to Drug/Alcohol Induced Causes in 2017 tuesday",legend="number of people",num_colors = 1)
+```
+```{r}
+df<-read.csv("saturday.csv",header = TRUE)
+df_saturday <-df %>% as.data.frame() %>% 
+  transmute(region = tolower(`State`), value = Deaths)
+
+state_choropleth(df_saturday,title="number of people aged between 14-34 died due to Drug/Alcohol Induced Causes in 2017 tuesday",legend="number of people",num_colors = 1)
+```
+
+
+
 
 (b) Interpret the graphs you drew in (a).
 
